@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.body{
+  display: flex;
+}
+
+.left{
+  width: 20% !important;
+}
+.right{
+  width: 80%;
+}

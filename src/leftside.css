@@ -1,0 +1,9 @@
+.leftside{
+    height: auto;
+    background-color: black;
+    color: white;
+    /* padding: 5px; */
+}
+.leftside button{
+    /* padding: 5px; */
+}
